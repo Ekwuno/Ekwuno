@@ -1,5 +1,12 @@
+## Hey there friend 
 
-![Friendly lobster](https://res.cloudinary.com/ekwuno/image/upload/c_scale,h_900,w_1080/v1594299590/Lobster---Gatsby.png)
-Hey there friend 👋🏾, [I am Obinna {speaks} Ekwuno](https://twitter.com/Obinnaspeaks) 🤓a Software Engineer on the DevRel/Community team at Gatsby, where I work with a team to better the developer experience by creating learning reasources through Podcasts, courses, giving talks and being all round helpful in the community. 
+<div align="center">
+	<br>
+  <img src="https://raw.githubusercontent.com/BolajiOlajide/BolajiOlajide/master/main.svg">
+	<br>
+</div>
+
+
+[I am Obinna {speaks} Ekwuno](https://twitter.com/Obinnaspeaks) a human first before anything, sometimes a bat 🦇. I love building tools for [developers](https://github.com/gatsbyjs/gatsby), [writing](https://blog.logrocket.com/author/obinnaekwuno/), [speaking & teaching](https://www.youtube.com/results?search_query=obinna+ekwuno) and slapping my keyboard till something works. :collision:
 
 I am mostly in a journey of finding balance between work and life. 🧘🏽‍♂️, I am a poet on my good days. 
