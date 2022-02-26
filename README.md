@@ -11,5 +11,5 @@
 
 I love to learn and share as I go. 
 
-💬 Ask me about: React, Gatsby, NextJS, Jamstack, Cloudflare Pages/Workers, serverless, developer experiences, Content Creation. <br/>
+💬 Ask me about: React, Remix, NextJS, Jamstack, Cloudflare Pages/Workers, serverless, developer experiences, Content Creation. <br/>
 😏 Fun fact: I am mostly in a journey of finding balance between work and life. 🧘🏽‍♂️, I am a poet on my good days. 
