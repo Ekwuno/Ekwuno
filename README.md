@@ -1,4 +1,4 @@
-# Hey there friend 
+# Hey there  
 
 [I am Obinna Ekwuno](https://twitter.com/Obinnaspeaks) a human first before anything . I love contributing to tools for [developers](https://github.com/gatsbyjs/gatsby), [writing](https://blog.logrocket.com/author/obinnaekwuno/), [speaking & teaching](https://www.youtube.com/results?search_query=obinna+ekwuno) and slapping my keyboard till something works. :collision:
 
