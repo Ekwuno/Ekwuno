@@ -14,6 +14,9 @@ I have some demo projects (Poke around my repos 👀), and I love to teach. I al
 
 - 👀 Ask me about: Javascript,React, Jamstack, Developer experience
 
+<img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=ekwuno&show_icons=true&layout=compact" />
+
+
 <p align="center">
   <a href="https://www.obinnaspeaks.dev/">Website</a> •
   <a href="https://twitter.com/obinnaspeaks">Twitter</a> •
