@@ -8,7 +8,7 @@ You'd have to play around and find out at some point, so that's what I do here �
 
 I'm a front-end engineer and a technical writer. I also advocate for developer communities as a Developer Advocate.  🔊
 
-I have some demo projects (Poke around my repos 👀), and I love to teach. I also do my absolute best and am very happy to collaborate. 
+I have some demo projects (Poke around my repos 👀), and I love to teach. I also do my absolute best and I'm very happy to collaborate. 
 
 - 😊 My Pronouns: He/Him   
 
